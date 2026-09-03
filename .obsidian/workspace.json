@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "但那是个空集。.md",
+                "file": "我对知识优绩主义和跨领域优越感的理解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "但那是个空集。"
+              "title": "我对知识优绩主义和跨领域优越感的理解"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 477.5
   },
   "right": {
     "id": "7dab06bb3c74f12f",
@@ -190,9 +190,11 @@
   },
   "active": "d37fd36e8ef50b0b",
   "lastOpenFiles": [
-    "2026.8.31 清醒梦.md",
-    "镜面球.md",
+    "对因特网的驳论：「MTF」与「计算机学得好」之间既不充分更不必要.md",
+    "我对知识优绩主义和跨领域优越感的理解.md",
     "但那是个空集。.md",
+    "镜面球.md",
+    "2026.8.31 清醒梦.md",
     "欢迎.md"
   ]
 }
